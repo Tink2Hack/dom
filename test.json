@@ -1,9 +1,9 @@
 
 {
-    "url": "https://present-knot.surge.sh/test.yaml",
+    "url": "https://tink2hack.github.io/dom/test.yaml",
     "urls": [
         {
-            "url": "https://present-knot.surge.sh/test.yaml",
+            "url": "https://tink2hack.github.io/dom/test.yaml",
             "name": "Foo"
         }
     ]
